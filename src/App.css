@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  overflow-x: hidden; /* Prevents horizontal overflow */
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh; /* Allow the container to grow with content */
+  position: relative; /* Position for absolute child */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.background-image {
+  position: absolute; /* Original background image */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('./img2.jpg'); /* Your original background */
+  background-size: cover;
+  background-position: center;
+  z-index: -2; /* Ensure it stays below the Lottie animation */
+}
+
+.lottie-background {
+  position: absolute; /* Position the Lottie animation */
+  top: 25%; /* Adjusted this value to move it slightly higher */
+  left: 50%; /* Center it horizontally */
+  transform: translateX(-50%); /* Center it horizontally */
+  width: 50%; /* Adjust width to make it smaller */
+  height: auto; /* Maintain aspect ratio */
+  z-index: -1; /* Keep it above the original background but below the content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8; /* Optional: Adjust opacity for blending */
+}
+
+.content {
+  background-color: rgba(255, 255, 255, 0.5); /* Adjusted opacity for more transparency */
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+  width: 90%;
+  margin: 60px 0; /* Reduced top and bottom margin for better spacing */
+  text-align: center;
+  position: relative; /* Keep it above the Lottie animation */
+  z-index: 1; /* Ensure the content is above everything else */
+}
+
+.header {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #351f3a; /* Updated color */
+  text-transform: uppercase;
+}
+
+.intro {
+  font-family: 'Arial', sans-serif; /* Change to the font you prefer */
+  font-size: 14px; /* Reduce the size */
+  font-style: italic; /* Optionally make the text italic */
+  color: #444; /* Change the color to your preference */
+  line-height: 1.6; /* Adjust line spacing for readability */
+  text-align: center; /* Align text to the center */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form-card .icon {
+  margin-right: 10px; /* Added margin between icon and text */
+  color: #244971; /* Set consistent icon color */
+  font-size: 1.5rem; /* Adjust icon size */
+}
+
+label {
+  margin: 0 0 5px;
+  font-family: 'Roboto', sans-serif; /* New font for labels */
+  font-weight: 600; /* Improved label font weight */
+  color: #050505;
+  flex: 1;
+  align-self: center;
+  align-items: center;
+  font-size: 16px; /* Adjusted font size for readability */
+}
+
+input,
+select {
+  height: 45px;
+  border: 2px solid #244971;
+  border-radius: 5px;
+  padding: 0 10px;
+  width: 100%; /* Ensure inputs fill the space */
+  outline: none;
+  transition: border-color 0.3s, box-shadow 0.3s; /* Smooth shadow transition */
+  flex: 3; /* Input field grows more compared to label */
+}
+
+input:focus,
+select:focus {
+  border-color: #005bb5;
+  box-shadow: 0 0 10px rgba(0, 112, 201, 0.3); /* Add shadow on focus */
+}
+
+.submit-btn {
+  background-color: #0070c9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  margin-top: 20px; /* Added margin for spacing */
+  width: 100%;
+}
+
+.submit-btn:hover {
+  background-color: #005bb5;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+  .header {
+    font-size: 28px;
+  }
+
+  .intro {
+    font-size: 16px;
+  }
+
+  .form-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .form-card .icon {
+    margin-bottom: 5px; /* Added space for smaller screens */
+  }
+
+  label {
+    font-size: 14px; /* Adjust label font size for small screens */
+  }
+
+  input,
+  select {
+    height: 40px; /* Reduce input height for smaller screens */
+  }
+
+  .lottie-background {
+    top: 30%; /* Adjusted this value to move it slightly higher on small screens */
+    left: 50%; /* Center it horizontally */
+    transform: translateX(-50%); /* Center it horizontally */
+    z-index: -1; /* Keep it above the original background but below the content */
+  }
+}

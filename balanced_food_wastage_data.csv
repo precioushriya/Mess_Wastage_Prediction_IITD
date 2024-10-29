@@ -1,0 +1,401 @@
+Type of Food,Number of Students,Day of the Week,Quantity of Food,Storage Conditions,Seasonality,Pricing,Wastage Food Amount
+Dairy Products,400,Sun,350,Room Temperature,Winter,High,35
+Dairy Products,250,Tue,350,Room Temperature,All Seasons,High,30
+Fruits,491,Sun,497,Room Temperature,Summer,High,32
+Dairy Products,270,Sat,400,Room Temperature,Winter,High,40
+Fruits,438,Thurs,493,Refrigerated,All Seasons,Moderate,35
+Fruits,300,Fri,400,Room Temperature,All Seasons,Moderate,30
+Baked Goods,450,Sun,500,Room Temperature,All Seasons,High,30
+Fruits,310,Fri,350,Room Temperature,All Seasons,High,35
+Dairy Products,380,Wed,480,Room Temperature,Winter,Moderate,30
+Vegetables,220,Sat,300,Refrigerated,Summer,Low,15
+Fruits,442,Fri,482,Room Temperature,All Seasons,Low,32
+Baked Goods,400,Wed,500,Room Temperature,All Seasons,High,40
+Fruits,400,Fri,500,Room Temperature,All Seasons,High,50
+Fruits,250,Sun,500,Refrigerated,Winter,High,40
+Vegetables,320,Sat,400,Refrigerated,Summer,High,35
+Fruits,261,Wed,350,Refrigerated,All Seasons,Moderate,23
+Dairy Products,300,Thurs,400,Room Temperature,Winter,High,40
+Baked Goods,400,Sat,500,Room Temperature,All Seasons,Low,25
+Dairy Products,320,Sat,400,Room Temperature,Summer,High,35
+Baked Goods,400,Thurs,500,Room Temperature,Winter,High,45
+Fruits,280,Sat,350,Room Temperature,Summer,Moderate,20
+Fruits,342,Tue,405,Refrigerated,All Seasons,Moderate,29
+Baked Goods,300,Wed,400,Room Temperature,Winter,Low,20
+Dairy Products,300,Sat,400,Room Temperature,All Seasons,Moderate,30
+Fruits,488,Tue,498,Room Temperature,Summer,High,63
+Baked Goods,350,Fri,450,Room Temperature,Winter,High,40
+Vegetables,310,Mon,350,Refrigerated,Summer,High,35
+Dairy Products,280,Tue,350,Room Temperature,Winter,Low,25
+Dairy Products,300,Sat,400,Room Temperature,All Seasons,High,35
+Vegetables,350,Sun,450,Refrigerated,Winter,High,35
+Baked Goods,220,Sun,300,Room Temperature,Summer,Low,15
+Vegetables,208,Fri,282,Refrigerated,Summer,Moderate,22
+Dairy Products,320,Wed,400,Room Temperature,Summer,High,40
+Fruits,400,Sat,500,Room Temperature,All Seasons,Low,25
+Dairy Products,400,Thurs,350,Room Temperature,Summer,High,35
+Vegetables,250,Tue,350,Refrigerated,Summer,Moderate,25
+Vegetables,250,Thurs,350,Refrigerated,All Seasons,Moderate,20
+Baked Goods,220,Mon,300,Refrigerated,All Seasons,Low,15
+Vegetables,280,Sat,350,Refrigerated,All Seasons,Moderate,20
+Vegetables,300,Tue,400,Room Temperature,Summer,Moderate,15
+Baked Goods,350,Sat,450,Room Temperature,All Seasons,Moderate,25
+Fruits,250,Fri,350,Room Temperature,All Seasons,High,30
+Fruits,280,Fri,350,Refrigerated,Summer,Low,15
+Fruits,350,Sun,450,Refrigerated,All Seasons,High,35
+Fruits,220,Fri,300,Room Temperature,Summer,Moderate,20
+Baked Goods,280,Sun,400,Room Temperature,All Seasons,Moderate,25
+Vegetables,208,Wed,282,Refrigerated,Winter,Moderate,22
+Vegetables,220,Sat,300,Refrigerated,Summer,Moderate,15
+Fruits,491,Tue,497,Room Temperature,All Seasons,High,32
+Vegetables,350,Sun,450,Refrigerated,Winter,High,45
+Fruits,320,Sat,480,Refrigerated,Summer,High,40
+Baked Goods,320,Tue,400,Room Temperature,Winter,Moderate,25
+Baked Goods,453,Sat,484,Room Temperature,Summer,High,54
+Fruits,300,Fri,400,Refrigerated,All Seasons,Moderate,15
+Baked Goods,350,Sat,450,Room Temperature,All Seasons,Moderate,30
+Fruits,300,Fri,400,Room Temperature,Summer,High,35
+Dairy Products,280,Sun,350,Refrigerated,Summer,Moderate,20
+Vegetables,208,Fri,282,Room Temperature,Summer,Moderate,22
+Fruits,400,Fri,350,Room Temperature,All Seasons,High,35
+Vegetables,207,Sun,280,Refrigerated,All Seasons,High,20
+Vegetables,320,Thurs,480,Refrigerated,All Seasons,High,40
+Dairy Products,320,Fri,400,Room Temperature,All Seasons,High,35
+Dairy Products,350,Thurs,450,Room Temperature,All Seasons,Low,20
+Fruits,320,Sun,400,Refrigerated,All Seasons,High,30
+Vegetables,280,Mon,350,Refrigerated,Winter,Low,20
+Fruits,300,Sat,400,Refrigerated,All Seasons,Low,20
+Baked Goods,320,Thurs,400,Room Temperature,Summer,High,35
+Dairy Products,300,Tue,400,Room Temperature,Winter,Moderate,25
+Baked Goods,320,Tue,400,Room Temperature,Summer,Moderate,25
+Fruits,280,Thurs,350,Room Temperature,All Seasons,Moderate,15
+Baked Goods,300,Sat,400,Room Temperature,Winter,Moderate,25
+Vegetables,350,Sat,450,Room Temperature,Winter,Moderate,25
+Fruits,450,Thurs,500,Room Temperature,Winter,High,30
+Fruits,250,Tue,350,Room Temperature,Summer,High,30
+Baked Goods,220,Fri,300,Room Temperature,Winter,Moderate,20
+Dairy Products,380,Sun,480,Room Temperature,All Seasons,Moderate,30
+Dairy Products,320,Thurs,400,Room Temperature,All Seasons,High,30
+Baked Goods,220,Wed,300,Room Temperature,Summer,Moderate,15
+Vegetables,280,Thurs,350,Refrigerated,Winter,Moderate,24
+Dairy Products,280,Tue,350,Room Temperature,All Seasons,Moderate,20
+Fruits,220,Sat,300,Room Temperature,Winter,Moderate,15
+Fruits,350,Sat,450,Refrigerated,All Seasons,Moderate,25
+Dairy Products,350,Fri,450,Room Temperature,All Seasons,High,30
+Dairy Products,320,Fri,400,Room Temperature,All Seasons,Moderate,15
+Dairy Products,292,Fri,470,Room Temperature,Winter,High,50
+Fruits,280,Fri,350,Refrigerated,All Seasons,Moderate,20
+Dairy Products,472,Sun,489,Room Temperature,Summer,Low,36
+Baked Goods,350,Fri,450,Room Temperature,All Seasons,High,35
+Vegetables,350,Tue,450,Refrigerated,Winter,High,35
+Fruits,400,Tue,500,Refrigerated,Winter,High,40
+Dairy Products,342,Mon,405,Room Temperature,Winter,Moderate,29
+Baked Goods,400,Sat,500,Room Temperature,Summer,High,50
+Vegetables,380,Thurs,500,Refrigerated,Winter,High,35
+Dairy Products,300,Mon,400,Room Temperature,Summer,Low,20
+Vegetables,350,Sat,450,Room Temperature,Summer,High,35
+Baked Goods,400,Mon,500,Room Temperature,Winter,Low,25
+Baked Goods,300,Tue,400,Room Temperature,Winter,Moderate,15
+Baked Goods,412,Mon,478,Room Temperature,Winter,Low,38
+Dairy Products,320,Thurs,400,Room Temperature,Summer,High,35
+Fruits,250,Sat,350,Refrigerated,Summer,High,30
+Dairy Products,300,Mon,400,Room Temperature,All Seasons,Moderate,25
+Vegetables,400,Mon,500,Refrigerated,Summer,High,50
+Fruits,380,Sat,500,Refrigerated,Summer,High,35
+Fruits,320,Mon,480,Room Temperature,Summer,High,40
+Vegetables,320,Wed,400,Refrigerated,All Seasons,Moderate,25
+Fruits,261,Wed,350,Refrigerated,All Seasons,Moderate,23
+Fruits,300,Sun,450,Refrigerated,All Seasons,Low,25
+Vegetables,400,Tue,400,Room Temperature,Winter,High,40
+Baked Goods,270,Mon,400,Room Temperature,All Seasons,High,40
+Baked Goods,350,Tue,450,Room Temperature,All Seasons,Moderate,25
+Vegetables,350,Tue,450,Refrigerated,Summer,Moderate,25
+Baked Goods,320,Wed,400,Room Temperature,All Seasons,Moderate,25
+Dairy Products,310,Fri,350,Room Temperature,Summer,High,35
+Baked Goods,350,Sat,450,Refrigerated,All Seasons,Moderate,25
+Dairy Products,250,Mon,480,Room Temperature,All Seasons,Low,20
+Fruits,491,Wed,497,Room Temperature,All Seasons,High,32
+Fruits,400,Sat,500,Refrigerated,Winter,High,45
+Dairy Products,300,Tue,400,Room Temperature,All Seasons,High,30
+Baked Goods,230,Wed,500,Room Temperature,All Seasons,Moderate,30
+Dairy Products,350,Sat,450,Room Temperature,All Seasons,High,35
+Vegetables,250,Sun,350,Room Temperature,Winter,Moderate,20
+Vegetables,380,Tue,480,Refrigerated,Summer,Moderate,30
+Fruits,320,Wed,400,Room Temperature,All Seasons,Moderate,25
+Baked Goods,300,Thurs,400,Room Temperature,Summer,High,40
+Fruits,400,Wed,500,Room Temperature,Summer,High,40
+Vegetables,380,Mon,480,Room Temperature,All Seasons,Moderate,30
+Baked Goods,400,Sat,500,Room Temperature,Summer,High,40
+Baked Goods,220,Thurs,300,Room Temperature,Winter,Moderate,15
+Vegetables,400,Wed,500,Refrigerated,Summer,High,40
+Dairy Products,310,Sun,350,Room Temperature,All Seasons,High,35
+Baked Goods,380,Tue,480,Room Temperature,Summer,Moderate,30
+Vegetables,472,Wed,489,Refrigerated,Summer,Low,36
+Dairy Products,400,Sun,500,Room Temperature,All Seasons,Low,25
+Vegetables,230,Tue,500,Refrigerated,Summer,Moderate,30
+Vegetables,250,Thurs,350,Refrigerated,Summer,High,35
+Vegetables,220,Tue,300,Refrigerated,Winter,Low,15
+Dairy Products,439,Wed,459,Room Temperature,Summer,Low,39
+Dairy Products,350,Sun,450,Room Temperature,All Seasons,High,40
+Dairy Products,220,Thurs,300,Room Temperature,All Seasons,Moderate,15
+Baked Goods,320,Wed,400,Room Temperature,All Seasons,High,45
+Fruits,310,Tue,350,Refrigerated,All Seasons,High,35
+Vegetables,250,Thurs,350,Refrigerated,Summer,High,40
+Dairy Products,280,Mon,350,Room Temperature,Summer,Moderate,20
+Vegetables,220,Fri,450,Refrigerated,Summer,Moderate,30
+Vegetables,280,Tue,350,Refrigerated,Summer,Moderate,20
+Dairy Products,280,Mon,400,Room Temperature,All Seasons,Moderate,24
+Fruits,260,Sun,400,Room Temperature,All Seasons,Low,20
+Vegetables,267,Sun,393,Refrigerated,Summer,Low,24
+Vegetables,453,Wed,484,Refrigerated,Summer,High,54
+Baked Goods,400,Wed,500,Room Temperature,Summer,High,50
+Fruits,280,Fri,350,Room Temperature,Summer,Moderate,20
+Baked Goods,261,Sat,350,Room Temperature,Summer,Moderate,24
+Dairy Products,380,Wed,500,Room Temperature,All Seasons,High,35
+Vegetables,220,Wed,300,Refrigerated,Summer,Moderate,15
+Fruits,280,Wed,350,Room Temperature,Winter,Moderate,20
+Vegetables,350,Thurs,450,Refrigerated,Winter,Moderate,25
+Vegetables,300,Sun,400,Room Temperature,Winter,High,35
+Fruits,290,Fri,374,Refrigerated,Winter,Low,27
+Baked Goods,310,Fri,350,Room Temperature,All Seasons,High,35
+Baked Goods,400,Sun,500,Room Temperature,Winter,High,40
+Baked Goods,350,Wed,450,Room Temperature,Summer,Low,20
+Dairy Products,300,Wed,450,Room Temperature,All Seasons,High,35
+Dairy Products,350,Thurs,450,Room Temperature,Winter,Moderate,25
+Vegetables,240,Tue,450,Refrigerated,All Seasons,Moderate,30
+Baked Goods,220,Tue,300,Room Temperature,Summer,Low,10
+Fruits,320,Mon,400,Refrigerated,Summer,Moderate,25
+Baked Goods,300,Sat,450,Room Temperature,Winter,High,35
+Vegetables,400,Sat,500,Refrigerated,Winter,High,40
+Vegetables,300,Mon,400,Room Temperature,Summer,Moderate,25
+Dairy Products,400,Thurs,500,Room Temperature,All Seasons,High,40
+Fruits,267,Thurs,480,Refrigerated,Winter,Low,30
+Fruits,280,Wed,480,Refrigerated,Winter,Low,15
+Vegetables,429,Sun,496,Refrigerated,All Seasons,Low,42
+Fruits,488,Wed,498,Room Temperature,Summer,High,63
+Vegetables,300,Wed,400,Refrigerated,Winter,High,35
+Baked Goods,350,Wed,450,Room Temperature,All Seasons,High,35
+Fruits,250,Sun,350,Room Temperature,Winter,Moderate,20
+Dairy Products,438,Tue,493,Room Temperature,Winter,Moderate,35
+Fruits,350,Thurs,450,Room Temperature,All Seasons,High,45
+Fruits,280,Tue,350,Room Temperature,Summer,Low,20
+Fruits,250,Sun,350,Room Temperature,Summer,High,30
+Vegetables,220,Tue,300,Refrigerated,Summer,Moderate,20
+Vegetables,300,Mon,400,Refrigerated,All Seasons,Low,20
+Vegetables,400,Sat,500,Room Temperature,Winter,Low,25
+Fruits,290,Wed,374,Room Temperature,Winter,Low,27
+Vegetables,300,Tue,400,Refrigerated,Winter,Low,15
+Baked Goods,400,Tue,500,Room Temperature,All Seasons,High,45
+Dairy Products,230,Mon,500,Room Temperature,All Seasons,Low,20
+Baked Goods,300,Sun,400,Room Temperature,All Seasons,Moderate,30
+Vegetables,350,Thurs,450,Room Temperature,Winter,Moderate,25
+Vegetables,300,Mon,400,Refrigerated,Summer,Moderate,25
+Vegetables,250,Mon,350,Refrigerated,Winter,High,30
+Baked Goods,230,Mon,500,Room Temperature,All Seasons,Low,30
+Fruits,350,Tue,450,Refrigerated,Winter,Moderate,30
+Baked Goods,280,Thurs,350,Room Temperature,Winter,Low,20
+Baked Goods,220,Fri,450,Room Temperature,All Seasons,Moderate,30
+Baked Goods,350,Sat,450,Room Temperature,All Seasons,High,30
+Baked Goods,380,Fri,500,Room Temperature,Winter,High,35
+Baked Goods,400,Tue,500,Room Temperature,Winter,High,50
+Baked Goods,350,Sat,450,Room Temperature,Winter,Moderate,25
+Vegetables,250,Fri,350,Refrigerated,Summer,Moderate,25
+Dairy Products,250,Fri,480,Room Temperature,Summer,Low,20
+Dairy Products,300,Mon,400,Room Temperature,All Seasons,Moderate,25
+Dairy Products,250,Mon,350,Room Temperature,Summer,Moderate,20
+Dairy Products,220,Mon,300,Room Temperature,All Seasons,Low,15
+Vegetables,220,Tue,300,Refrigerated,Summer,Moderate,15
+Fruits,400,Fri,500,Refrigerated,Summer,High,50
+Fruits,302,Fri,371,Room Temperature,All Seasons,Low,27
+Baked Goods,220,Thurs,300,Room Temperature,Summer,Moderate,15
+Vegetables,320,Sat,400,Refrigerated,Winter,High,35
+Dairy Products,300,Sun,400,Room Temperature,Summer,Low,20
+Vegetables,250,Mon,480,Refrigerated,Summer,Low,20
+Vegetables,280,Mon,350,Refrigerated,Summer,Moderate,20
+Baked Goods,250,Tue,350,Room Temperature,All Seasons,Moderate,20
+Dairy Products,250,Tue,350,Room Temperature,All Seasons,Low,10
+Vegetables,350,Fri,450,Refrigerated,Winter,High,40
+Baked Goods,280,Sun,350,Room Temperature,Winter,Moderate,20
+Dairy Products,280,Sun,350,Room Temperature,Winter,Low,20
+Baked Goods,400,Fri,500,Room Temperature,Winter,High,50
+Dairy Products,350,Thurs,450,Room Temperature,All Seasons,Moderate,25
+Baked Goods,220,Tue,300,Room Temperature,Winter,Moderate,15
+Vegetables,250,Sun,350,Refrigerated,Summer,High,40
+Dairy Products,220,Sun,300,Room Temperature,All Seasons,Moderate,15
+Vegetables,280,Thurs,350,Refrigerated,All Seasons,Moderate,20
+Vegetables,280,Mon,350,Room Temperature,Summer,Low,15
+Vegetables,220,Sat,300,Refrigerated,Winter,Low,15
+Vegetables,300,Sat,450,Refrigerated,All Seasons,High,35
+Baked Goods,290,Thurs,374,Room Temperature,All Seasons,Low,27
+Fruits,270,Thurs,400,Refrigerated,All Seasons,High,40
+Dairy Products,280,Sat,350,Room Temperature,All Seasons,Moderate,20
+Vegetables,261,Tue,350,Refrigerated,Winter,Moderate,23
+Dairy Products,491,Thurs,497,Room Temperature,All Seasons,High,32
+Dairy Products,491,Sat,497,Room Temperature,Summer,High,32
+Fruits,220,Sun,300,Room Temperature,Winter,Low,15
+Vegetables,280,Thurs,480,Refrigerated,All Seasons,Moderate,15
+Baked Goods,250,Wed,480,Room Temperature,Winter,Low,20
+Dairy Products,434,Wed,495,Room Temperature,Summer,Low,36
+Baked Goods,320,Sat,400,Room Temperature,Summer,High,35
+Baked Goods,280,Sat,350,Room Temperature,Winter,Moderate,20
+Baked Goods,290,Sun,374,Room Temperature,Summer,Low,27
+Baked Goods,320,Tue,400,Room Temperature,Summer,Moderate,25
+Vegetables,320,Tue,400,Room Temperature,Summer,High,35
+Fruits,220,Sat,300,Room Temperature,All Seasons,Moderate,15
+Baked Goods,220,Sat,300,Room Temperature,Winter,Moderate,15
+Fruits,380,Tue,480,Room Temperature,Winter,Moderate,30
+Fruits,380,Mon,480,Refrigerated,Winter,Moderate,30
+Baked Goods,450,Thurs,500,Room Temperature,All Seasons,High,30
+Vegetables,350,Fri,450,Refrigerated,Winter,Moderate,25
+Dairy Products,472,Tue,489,Room Temperature,Winter,Low,36
+Dairy Products,220,Mon,300,Room Temperature,All Seasons,Low,15
+Vegetables,400,Tue,500,Room Temperature,All Seasons,High,50
+Dairy Products,310,Mon,350,Room Temperature,Winter,High,35
+Vegetables,367,Sun,420,Refrigerated,Summer,Low,40
+Dairy Products,400,Wed,500,Room Temperature,All Seasons,High,40
+Fruits,380,Sun,400,Room Temperature,Winter,Moderate,25
+Baked Goods,320,Tue,400,Room Temperature,All Seasons,Moderate,25
+Fruits,220,Sat,300,Room Temperature,Winter,Low,15
+Fruits,250,Sat,350,Refrigerated,Winter,Low,10
+Dairy Products,250,Wed,350,Room Temperature,Winter,High,30
+Vegetables,302,Sun,371,Room Temperature,All Seasons,Low,27
+Vegetables,320,Tue,400,Refrigerated,Summer,High,40
+Fruits,310,Tue,350,Room Temperature,Summer,High,35
+Fruits,400,Fri,500,Refrigerated,Summer,High,45
+Fruits,320,Tue,400,Refrigerated,All Seasons,High,35
+Vegetables,220,Sat,300,Refrigerated,Winter,Low,15
+Vegetables,220,Tue,300,Room Temperature,Summer,Low,15
+Baked Goods,275,Tue,388,Room Temperature,All Seasons,Low,16
+Dairy Products,350,Sun,450,Room Temperature,Summer,High,30
+Dairy Products,220,Wed,300,Room Temperature,All Seasons,Low,15
+Fruits,429,Thurs,496,Room Temperature,Winter,Low,42
+Fruits,280,Mon,350,Refrigerated,All Seasons,Low,20
+Dairy Products,300,Fri,400,Room Temperature,Winter,Low,20
+Dairy Products,342,Wed,405,Room Temperature,All Seasons,Moderate,29
+Baked Goods,367,Mon,420,Room Temperature,Winter,Low,40
+Vegetables,320,Tue,480,Room Temperature,Winter,High,40
+Fruits,310,Fri,450,Room Temperature,All Seasons,Low,25
+Baked Goods,280,Thurs,350,Room Temperature,All Seasons,Low,20
+Dairy Products,400,Tue,500,Room Temperature,Summer,High,45
+Dairy Products,250,Mon,500,Room Temperature,Winter,High,40
+Baked Goods,400,Sun,500,Room Temperature,Winter,High,40
+Fruits,350,Tue,450,Room Temperature,Summer,Moderate,25
+Dairy Products,250,Wed,350,Room Temperature,All Seasons,Moderate,20
+Baked Goods,400,Fri,500,Room Temperature,All Seasons,High,40
+Vegetables,220,Mon,300,Refrigerated,Summer,Moderate,15
+Dairy Products,300,Sat,400,Room Temperature,Winter,Moderate,25
+Baked Goods,350,Wed,450,Room Temperature,Winter,Moderate,30
+Dairy Products,250,Thurs,350,Room Temperature,All Seasons,Moderate,20
+Vegetables,400,Thurs,500,Refrigerated,Winter,Low,25
+Fruits,380,Wed,400,Room Temperature,Winter,Moderate,25
+Dairy Products,250,Wed,350,Room Temperature,All Seasons,Moderate,20
+Fruits,412,Tue,478,Room Temperature,Summer,Low,38
+Fruits,300,Sun,400,Room Temperature,All Seasons,High,30
+Fruits,261,Sat,350,Room Temperature,All Seasons,Moderate,23
+Dairy Products,350,Thurs,450,Room Temperature,Winter,High,45
+Dairy Products,280,Tue,350,Room Temperature,All Seasons,Low,20
+Baked Goods,300,Tue,400,Room Temperature,All Seasons,High,40
+Fruits,320,Mon,400,Refrigerated,All Seasons,High,35
+Baked Goods,320,Tue,400,Room Temperature,All Seasons,Moderate,25
+Dairy Products,280,Mon,350,Room Temperature,All Seasons,Moderate,20
+Dairy Products,300,Thurs,400,Room Temperature,All Seasons,Moderate,25
+Dairy Products,280,Thurs,350,Room Temperature,All Seasons,Low,25
+Vegetables,320,Tue,400,Room Temperature,Summer,Moderate,25
+Baked Goods,491,Wed,497,Room Temperature,Summer,High,32
+Vegetables,320,Wed,400,Refrigerated,All Seasons,High,30
+Fruits,350,Mon,450,Room Temperature,All Seasons,High,30
+Vegetables,350,Sun,450,Room Temperature,Summer,High,35
+Vegetables,250,Wed,350,Refrigerated,Summer,Low,10
+Fruits,400,Mon,450,Room Temperature,All Seasons,Moderate,30
+Fruits,320,Sun,480,Room Temperature,Winter,High,40
+Baked Goods,300,Wed,400,Room Temperature,All Seasons,Low,20
+Fruits,220,Mon,300,Room Temperature,Winter,Low,15
+Vegetables,250,Mon,350,Refrigerated,Summer,Moderate,20
+Fruits,300,Thurs,400,Room Temperature,Summer,Moderate,15
+Baked Goods,320,Mon,400,Room Temperature,Winter,High,30
+Baked Goods,400,Wed,500,Room Temperature,All Seasons,High,50
+Dairy Products,400,Fri,500,Room Temperature,All Seasons,High,40
+Dairy Products,400,Fri,500,Room Temperature,All Seasons,High,40
+Baked Goods,208,Tue,282,Room Temperature,All Seasons,Moderate,22
+Dairy Products,350,Sat,450,Refrigerated,All Seasons,Low,20
+Dairy Products,300,Sat,400,Room Temperature,Winter,High,35
+Dairy Products,230,Mon,500,Room Temperature,Winter,Low,20
+Dairy Products,220,Fri,300,Room Temperature,All Seasons,Low,15
+Baked Goods,292,Thurs,470,Room Temperature,All Seasons,High,50
+Dairy Products,280,Sat,350,Room Temperature,All Seasons,Low,20
+Baked Goods,220,Fri,300,Room Temperature,Summer,Moderate,20
+Baked Goods,220,Wed,300,Room Temperature,Winter,Low,15
+Baked Goods,250,Tue,350,Room Temperature,Winter,Moderate,25
+Dairy Products,250,Mon,350,Room Temperature,All Seasons,Moderate,20
+Dairy Products,320,Wed,400,Room Temperature,All Seasons,Low,15
+Vegetables,220,Thurs,300,Room Temperature,Winter,Moderate,15
+Fruits,320,Sun,400,Refrigerated,All Seasons,High,45
+Dairy Products,400,Mon,400,Room Temperature,Summer,High,40
+Vegetables,300,Mon,400,Refrigerated,Summer,High,30
+Baked Goods,247,Tue,348,Room Temperature,Summer,Moderate,16
+Dairy Products,350,Sun,450,Room Temperature,All Seasons,Moderate,20
+Vegetables,280,Wed,350,Refrigerated,Summer,Low,20
+Fruits,350,Tue,450,Room Temperature,Winter,High,45
+Fruits,302,Tue,371,Room Temperature,All Seasons,Low,22
+Fruits,300,Tue,400,Refrigerated,All Seasons,Moderate,15
+Fruits,400,Fri,500,Refrigerated,Summer,High,50
+Dairy Products,453,Thurs,484,Room Temperature,All Seasons,High,54
+Fruits,250,Sun,480,Room Temperature,Winter,Low,20
+Dairy Products,250,Sun,500,Room Temperature,Winter,High,40
+Fruits,320,Fri,400,Refrigerated,Summer,High,35
+Baked Goods,320,Tue,400,Room Temperature,All Seasons,Moderate,25
+Fruits,400,Wed,500,Refrigerated,All Seasons,High,40
+Baked Goods,350,Thurs,450,Room Temperature,All Seasons,Moderate,25
+Dairy Products,400,Tue,500,Room Temperature,Summer,Low,25
+Dairy Products,300,Tue,400,Room Temperature,Winter,Low,20
+Fruits,400,Wed,350,Room Temperature,Summer,High,35
+Baked Goods,310,Wed,350,Room Temperature,All Seasons,High,35
+Fruits,275,Sat,388,Room Temperature,Winter,Low,16
+Dairy Products,380,Tue,500,Room Temperature,Winter,Moderate,25
+Vegetables,220,Mon,300,Refrigerated,Winter,Low,15
+Baked Goods,400,Mon,500,Room Temperature,All Seasons,High,40
+Baked Goods,300,Wed,400,Room Temperature,Summer,Low,15
+Vegetables,434,Thurs,495,Refrigerated,Winter,High,36
+Baked Goods,400,Fri,500,Room Temperature,Winter,High,40
+Baked Goods,350,Thurs,450,Room Temperature,Winter,High,35
+Baked Goods,292,Sun,470,Room Temperature,All Seasons,High,50
+Dairy Products,220,Mon,300,Room Temperature,All Seasons,Moderate,15
+Fruits,310,Sat,350,Room Temperature,All Seasons,High,35
+Fruits,400,Thurs,500,Room Temperature,Summer,High,40
+Vegetables,230,Sat,500,Refrigerated,Summer,Moderate,30
+Vegetables,320,Thurs,400,Refrigerated,Summer,Moderate,20
+Baked Goods,220,Wed,450,Room Temperature,Summer,Low,20
+Vegetables,350,Fri,450,Refrigerated,Summer,Moderate,25
+Vegetables,400,Sun,500,Room Temperature,Summer,High,40
+Fruits,300,Fri,400,Room Temperature,Winter,Low,20
+Fruits,275,Thurs,388,Room Temperature,Winter,Low,16
+Baked Goods,247,Mon,348,Room Temperature,All Seasons,Moderate,16
+Dairy Products,350,Sat,450,Room Temperature,Winter,Moderate,25
+Dairy Products,439,Mon,459,Room Temperature,All Seasons,Low,39
+Fruits,320,Mon,400,Room Temperature,Summer,Moderate,25
+Baked Goods,300,Sun,480,Room Temperature,All Seasons,High,40
+Vegetables,400,Mon,500,Refrigerated,Winter,High,50
+Dairy Products,280,Thurs,350,Room Temperature,All Seasons,Low,20
+Vegetables,350,Wed,450,Refrigerated,Summer,Low,20
+Dairy Products,350,Mon,450,Room Temperature,Winter,Moderate,20
+Baked Goods,250,Wed,350,Room Temperature,All Seasons,Low,10
+Dairy Products,220,Wed,300,Room Temperature,All Seasons,Moderate,15
+Baked Goods,350,Wed,450,Room Temperature,Summer,High,40
+Vegetables,320,Sun,400,Refrigerated,Winter,High,30
+Vegetables,434,Sat,495,Room Temperature,Winter,Low,36
+Vegetables,400,Sun,500,Room Temperature,Summer,High,40
+Baked Goods,350,Sun,450,Room Temperature,All Seasons,High,35
+Fruits,280,Mon,350,Refrigerated,Summer,Low,20
+Baked Goods,300,Tue,400,Room Temperature,All Seasons,Moderate,30
+Fruits,491,Sun,497,Refrigerated,Winter,High,32
+Baked Goods,491,Fri,497,Room Temperature,All Seasons,High,32
+Dairy Products,320,Fri,400,Room Temperature,All Seasons,Moderate,25
+Vegetables,300,Thurs,450,Refrigerated,All Seasons,High,35
+Baked Goods,350,Mon,450,Room Temperature,Winter,High,45
+Fruits,220,Wed,300,Room Temperature,All Seasons,Moderate,15
+Vegetables,280,Sun,350,Room Temperature,Summer,Low,20
+Fruits,250,Fri,350,Refrigerated,Winter,Moderate,20
+Vegetables,397,Thurs,482,Refrigerated,All Seasons,Moderate,31
+Dairy Products,320,Mon,400,Room Temperature,Winter,High,45
+Baked Goods,350,Thurs,450,Room Temperature,All Seasons,High,45
+Vegetables,300,Wed,400,Room Temperature,Summer,Low,20
